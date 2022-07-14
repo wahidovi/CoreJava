@@ -1,4 +1,4 @@
-package java8.lambdas_and_streams;
+package java8.lambdas_and_streams_intro_part_1;
 
 public class Greetings implements Hello {
 
