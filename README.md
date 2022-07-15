@@ -10,7 +10,7 @@
   
   > Object Oriented Concepts
   
-  > Java 8 - Lambdas, Streams
+  > **Java 8 - Lambdas, Streams**
   
   > Basic Data Structure and Algorithms
   
