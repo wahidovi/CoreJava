@@ -17,7 +17,7 @@ public class JavaStreamsExample2 {
 
 		System.out.println("-----------------");
 		
-		List<Integer> list = Arrays.asList(1,8,2,4,11,56,12,14,9);
+		List<Integer> list = Arrays.asList(1,8,2,4,11,56,12,14,9,-12);
 		
 		list.stream()
 		.sorted()
