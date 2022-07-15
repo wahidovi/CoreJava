@@ -23,6 +23,8 @@ public class JavaStreamsExample2 {
 		.sorted()
 		.filter(n -> n%2 == 0)
 		.forEach(System.out::println);
+		
+		
 	}
 
 }
